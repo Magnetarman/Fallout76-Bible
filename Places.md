@@ -1,5 +1,5 @@
 # Places
-    > List of the best places to find useful and necessary materials for survival in the game.  
+> List of the best places to find useful and necessary materials for survival in the game.  
 
 - Lucky Hole Mine (Metals)
 - Megatown (Plastic Material)

@@ -1,5 +1,5 @@
 # Useful Links
-    > Collection of youtube videos about techniques, locations and methods to maximise the gaming experience, divided by category.
+ > Collection of youtube videos about techniques, locations and methods to maximise the gaming experience, divided by category.
 
 ## Farm Things
 [Farm Glue](https://www.youtube.com/watch?v=-IfwRZvYYPE&list=PLB6lCXFZuFIMZGi3KGJeQpNHOadq0TV4c) - ITA Lang
