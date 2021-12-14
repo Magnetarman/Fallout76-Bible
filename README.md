@@ -12,3 +12,5 @@ To make these guides easily accessible, I link below to a tool to easily convert
 Please feel free to comment and propose changes and additions.
 
 Thank you all for your cooperation.
+
+## *PS* = For find location that yu're not discovered yet, there are a [Interactive Map](https://fallout-76-map.com/) that can help for the Place section.
