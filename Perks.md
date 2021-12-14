@@ -8,6 +8,7 @@
 - AmmoSmith
 - Super Duper
 - Scrapper
+- Starched Genes (Lucky)
 
 ## Legendary Perks
 - Ammo Factory
