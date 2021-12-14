@@ -7,4 +7,8 @@ All the repo for ease of understanding is written in English even if some links 
 
 To make these guides easily accessible, I link below to a tool to easily convert the markdown documents in this repo into PDF format so they can be easily read or printed.
 
-[md TO PDF Tool](https://products.aspose.app/pdf/conversion/md-to-pdf)
+[Markdown - PDF Tool](https://products.aspose.app/pdf/conversion/md-to-pdf)
+
+Please feel free to comment and propose changes and additions.
+
+Thank you all for your cooperation.
