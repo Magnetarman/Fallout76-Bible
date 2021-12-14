@@ -5,3 +5,4 @@
 - Megatown (Plastic Material)
 - The Witespring Golf Club (Cure Anything with Water)
 - Berkeley Spring Station (Covert & Buy Legendary Things)
+- The Whitespring Resort (All primary needs)
