@@ -23,3 +23,4 @@
 ## Guide
 [Legendary Perks](https://www.youtube.com/watch?v=uM6gVD7kMtM) - ENG Lang
 [Best Secrets](https://www.youtube.com/watch?v=IwcNTN36SOw) - ENG Lang
+[Backpack with all MODS](https://www.youtube.com/watch?v=vbmVRh5qivY) - ENG Lang
