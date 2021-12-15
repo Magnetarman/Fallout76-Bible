@@ -1,6 +1,9 @@
 # Useful Links
  > Collection of youtube videos about techniques, locations and methods to maximise the gaming experience, divided by category.
 
+    - ITA Lang (Italian Language Video)
+    - ENG Lang (English Language Video)
+
 ## Farm Things
 [Farm Glue](https://www.youtube.com/watch?v=-IfwRZvYYPE&list=PLB6lCXFZuFIMZGi3KGJeQpNHOadq0TV4c) - ITA Lang
 
@@ -19,9 +22,12 @@
 
 ## Tip & Tricks
 [20 Crucial Tip & Tricks](https://www.youtube.com/watch?v=h6LgDylO7pg) - ENG Lang
+[Best Place to Grinding(Level UP)](https://www.youtube.com/watch?v=B6bErOHbkrI) - ENG Lang
 
 ## Guide
 [Legendary Perks](https://www.youtube.com/watch?v=uM6gVD7kMtM) - ENG Lang
 [Best Secrets](https://www.youtube.com/watch?v=IwcNTN36SOw) - ENG Lang
 [Backpack with all MODS](https://www.youtube.com/watch?v=vbmVRh5qivY) - ENG Lang
 [Legendary Effets for Weapons](https://www.youtube.com/watch?v=WMqMACVbj3E) - ENG Lang
+[Make Fast Caps with Mutations](https://www.youtube.com/watch?v=79lr0BQ_P8A) - ENG Lang
+[7 Rare Weapons Spawn Location](https://www.youtube.com/watch?v=pCOJY5VJRIo) - ENG Lang
