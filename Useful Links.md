@@ -23,6 +23,7 @@
 ## Tip & Tricks
 [20 Crucial Tip & Tricks](https://www.youtube.com/watch?v=h6LgDylO7pg) - ENG Lang
 [Best Place to Grinding(Level UP)](https://www.youtube.com/watch?v=B6bErOHbkrI) - ENG Lang
+[Top 10 Legendary Weapons](https://www.youtube.com/watch?v=Nj7aOz1fZrs) - ENG Lang
 
 ## Guide
 [Legendary Perks](https://www.youtube.com/watch?v=uM6gVD7kMtM) - ENG Lang
@@ -31,3 +32,4 @@
 [Legendary Effets for Weapons](https://www.youtube.com/watch?v=WMqMACVbj3E) - ENG Lang
 [Make Fast Caps with Mutations](https://www.youtube.com/watch?v=79lr0BQ_P8A) - ENG Lang
 [7 Rare Weapons Spawn Location](https://www.youtube.com/watch?v=pCOJY5VJRIo) - ENG Lang
+[Do a lot of CAPS](https://www.youtube.com/watch?v=GxTydIGMRuM) - ENG Lang
