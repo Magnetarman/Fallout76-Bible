@@ -24,6 +24,8 @@
 [20 Crucial Tip & Tricks](https://www.youtube.com/watch?v=h6LgDylO7pg) - ENG Lang
 [Best Place to Grinding(Level UP)](https://www.youtube.com/watch?v=B6bErOHbkrI) - ENG Lang
 [Top 10 Legendary Weapons](https://www.youtube.com/watch?v=Nj7aOz1fZrs) - ENG Lang
+[Nuke Launching Code](https://nukacrypt.com/) - ENG Lang
+[Best Weapons Project](https://www.youtube.com/watch?v=GfUiKGEb7ys) - ENG Lang
 
 ## Guide
 [Legendary Perks](https://www.youtube.com/watch?v=uM6gVD7kMtM) - ENG Lang

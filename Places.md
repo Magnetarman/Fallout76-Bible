@@ -11,3 +11,4 @@
 - The Deep (Acid)
 - Kiddie Corner Cabins (Acid)
 - Carleton Mine (Acid)
+- Military Camp (Ballistic Fiber) 
