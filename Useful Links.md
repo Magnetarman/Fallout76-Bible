@@ -26,6 +26,7 @@
 [Top 10 Legendary Weapons](https://www.youtube.com/watch?v=Nj7aOz1fZrs) - ENG Lang
 [Nuke Launching Code](https://nukacrypt.com/) - ENG Lang
 [Best Weapons Project](https://www.youtube.com/watch?v=GfUiKGEb7ys) - ENG Lang
+[Definitive Weapon](https://www.kevduit.com/op-plasma-pistol-flamer-build-in-fallout-76/) - ENG Lang
 
 ## Guide
 [Legendary Perks](https://www.youtube.com/watch?v=uM6gVD7kMtM) - ENG Lang
